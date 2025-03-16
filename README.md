@@ -29,5 +29,5 @@ A comprehensive library management system built with Streamlit and MySQL.
 
 
 "admin": "12345",
-"librarian": "library2025"
+
     
